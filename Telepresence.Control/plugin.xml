@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginV1XML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FRIENDLY_NAME>OhmniLabs Telepresence</FRIENDLY_NAME>
+  <DLL_FILENAME>Telepresence.Control.dll</DLL_FILENAME>
+  <AUTHOR_NAME>amin</AUTHOR_NAME>
+  <LICENSE_URL>http://www.ez-robot.com/tutorials/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>53f94118-8a5d-4cb3-8f37-f3187a67b58b</PLUGIN_GUID>
+  <CATEGORY_TYPE>Third Party Robots</CATEGORY_TYPE>
+  <DESCRIPTION>This control let's you control a Telepresence robot from Ohmnilabs using EZ-Builder and immediately get access to all the features that Synthiam platform offers including face detection, automated tracking, easy navigation and more.</DESCRIPTION>
+  <VersionRelease>1</VersionRelease>
+</PluginV1XML>
